@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>動畫展示｜黃子芸 YellowFish</title>
+<meta name="description" content="龍人商隊角色的 Spine 動畫，可以切換動作即時播放。">
+<meta property="og:title" content="動畫展示｜黃子芸 YellowFish">
+<meta property="og:description" content="龍人商隊角色的 Spine 動畫，可以切換動作即時播放。">
+<meta property="og:image" content="img/thumb/illus-07.webp">
+<meta name="theme-color" content="#131c17">
+<link rel="icon" href="img/profile/avatar.webp">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=LXGW+WenKai+TC&family=Noto+Serif+TC:wght@700;900&family=UnifrakturMaguntia&display=swap">
+<link rel="stylesheet" href="vendor/spine-player.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="animation">
+<a class="sr-only" href="#main">跳到主要內容</a>
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="index.html" aria-label="回到首頁"><span class="brand-mark">YellowFish</span><span class="brand-name">黃子芸</span></a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links" aria-label="開啟選單"><span></span></button>
+    <ul class="nav-links" id="nav-links">
+      <li><a href="index.html">首頁</a></li>
+      <li><a href="artworks.html">靜態美術</a></li>
+      <li><a href="animation.html" aria-current="page">動畫展示</a></li>
+    </ul>
+    <div class="nav-social"></div>
+  </div>
+</header>
+<main id="main">
+<div class="wrap">
+  <header class="page-head"><span class="latin">Animation</span><h1>動畫展示</h1><p>《龍人商隊》角色的 Spine 動畫，從拆圖、綁骨到動作都由我製作。選一位角色，再點動作名稱切換播放。</p></header>
+  <div class="cast" id="cast" role="group" aria-label="選擇角色"></div>
+  <div class="theatre" id="theatre">
+    <div class="stage-wrap">
+      <div class="stage" id="stage"><div class="stage-floor"></div><p class="stage-msg" id="stage-msg">動畫載入中…</p></div>
+      <div class="controls" id="controls"></div>
+    </div>
+    <div class="page" id="info"></div>
+  </div>
+</div>
+</main>
+<footer class="footer"></footer>
+<noscript><p class="noscript">這個網站需要開啟 JavaScript 才能顯示作品。</p></noscript>
+<script src="vendor/spine-player.min.js"></script>
+<script src="js/common.js"></script>
+<script src="js/animation.js"></script>
+</body>
+</html>

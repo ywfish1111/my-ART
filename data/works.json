@@ -1,0 +1,2890 @@
+{
+ "site": {
+  "name": "黃子芸",
+  "nameEn": "黃魚/YellowFish",
+  "tagline": "遊戲美術、遊戲動畫｜擅長角色發想與世界觀撰寫",
+  "about": "主要工作為遊戲美術、遊戲動畫。擅長發想創作角色，撰寫詳細世界觀。",
+  "tools": [
+   "Photoshop",
+   "Illustrator",
+   "InDesign",
+   "Procreate",
+   "Clip Studio Paint",
+   "3ds Max",
+   "Maya",
+   "Blender"
+  ],
+  "email": "fish901277@gmail.com",
+  "instagram": "",
+  "facebook": "",
+  "other": "",
+  "resume": "",
+  "hero": "illus-07",
+  "avatar": "img/profile/avatar.webp",
+  "heroImage": "img/large/illus-07.webp",
+  "heroThumb": "img/thumb/illus-07.webp"
+ },
+ "projects": [
+  {
+   "id": "dragon-caravan",
+   "name": "龍人商隊",
+   "desc": "龍人商隊是奇幻經商RPG，我在此遊戲專案中負責美術與企劃部分。",
+   "role": "遊戲美術、企劃、主要負責人",
+   "home": true
+  },
+  {
+   "id": "tarot",
+   "name": "塔羅牌系列（龍人商隊 事件牌）",
+   "desc": "此塔羅牌系列來自遊戲中的事件系統，牌面美術致敬塔羅牌，其中的角色與生物皆來自龍人商隊專案。",
+   "role": "遊戲美術、企劃、主要負責人",
+   "home": true
+  },
+  {
+   "id": "chibi",
+   "name": "Q 版角色（龍人商隊）",
+   "desc": "在遊戲中角色會以Q版形象出現在地圖中，我節選了部分角色來展示。",
+   "role": "遊戲美術、企劃、主要負責人",
+   "home": false
+  }
+ ],
+ "artworks": [
+  {
+   "id": "char-01",
+   "category": "角色立繪",
+   "title": "主角(女)",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "遊戲中的主角女生版形象。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1000,
+   "w": 3709,
+   "h": 5253,
+   "thumb": "img/thumb/char-01.webp",
+   "large": "img/large/char-01.webp"
+  },
+  {
+   "id": "char-02",
+   "category": "角色立繪",
+   "title": "主角(男)",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "遊戲中的主角男生版形象。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1001,
+   "w": 4050,
+   "h": 6134,
+   "thumb": "img/thumb/char-02.webp",
+   "large": "img/large/char-02.webp"
+  },
+  {
+   "id": "char-03",
+   "category": "角色立繪",
+   "title": "主角小時候",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主角小時候的形象。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1002,
+   "w": 1826,
+   "h": 3087,
+   "thumb": "img/thumb/char-03.webp",
+   "large": "img/large/char-03.webp"
+  },
+  {
+   "id": "char-04",
+   "category": "角色立繪",
+   "title": "佛雷德",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "遊戲中是主角兒時玩伴，同時也是遊戲助理角色之一。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1003,
+   "w": 2052,
+   "h": 3868,
+   "thumb": "img/thumb/char-04.webp",
+   "large": "img/large/char-04.webp"
+  },
+  {
+   "id": "char-05",
+   "category": "角色立繪",
+   "title": "妮卡",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主角父親團隊中的戰士，種族為土龍人，有著苗條身體但武藝驚人，個性熱情火爆與人發爭執便會立刻打起來，喜歡舞蹈，夢想是賺夠錢可以投資自己去世界巡迴演出。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1004,
+   "w": 3523,
+   "h": 4860,
+   "thumb": "img/thumb/char-05.webp",
+   "large": "img/large/char-05.webp"
+  },
+  {
+   "id": "char-06",
+   "category": "角色立繪",
+   "title": "彌樂絲",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主角父親團隊中的獵巫人，種族為人類，擁有對抗亞人種 魔物 黑魔法等特殊知識，是文德在聖地達成合作契約請來的幫手，已在團隊工作八年，個性高傲帶有一點中二，但遇到危險會非常可靠，喜歡錢與購物，夢想是賺大錢到處血拼旅遊。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1005,
+   "w": 3633,
+   "h": 5338,
+   "thumb": "img/thumb/char-06.webp",
+   "large": "img/large/char-06.webp"
+  },
+  {
+   "id": "char-07",
+   "category": "角色立繪",
+   "title": "曼薩",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "貪婪的反派，種族為土龍人，是馬里商會的領導。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1006,
+   "w": 3330,
+   "h": 5021,
+   "thumb": "img/thumb/char-07.webp",
+   "large": "img/large/char-07.webp"
+  },
+  {
+   "id": "char-08",
+   "category": "角色立繪",
+   "title": "極寒",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "聖都的明星，種族未知，身體體溫始終零度以下，能夠自由變換外貌年齡，據說是世界最後一隻龍。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1007,
+   "w": 3500,
+   "h": 4955,
+   "thumb": "img/thumb/char-08.webp",
+   "large": "img/large/char-08.webp"
+  },
+  {
+   "id": "char-09",
+   "category": "角色立繪",
+   "title": "極寒（偶像）",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "聖都的明星，種族未知，身體體溫始終零度以下，能夠自由變換外貌年齡，據說是世界最後一隻龍。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1008,
+   "w": 2923,
+   "h": 4075,
+   "thumb": "img/thumb/char-09.webp",
+   "large": "img/large/char-09.webp"
+  },
+  {
+   "id": "char-10",
+   "category": "角色立繪",
+   "title": "涅克斯",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "神選者，種族為凡賽爾(吸血鬼)，超級工作狂，被稱為異端神選者，忠臣於神的魔族。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1009,
+   "w": 3487,
+   "h": 5126,
+   "thumb": "img/thumb/char-10.webp",
+   "large": "img/large/char-10.webp"
+  },
+  {
+   "id": "char-11",
+   "category": "角色立繪",
+   "title": "溫德",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主角的父親，種族為風龍人，曾統領溫德商隊，為人正直有信用，深受顧客好評。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1010,
+   "w": 3146,
+   "h": 5134,
+   "thumb": "img/thumb/char-11.webp",
+   "large": "img/large/char-11.webp"
+  },
+  {
+   "id": "char-12",
+   "category": "角色立繪",
+   "title": "烏薩斯",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "人類王國的超級士兵，種族為人類，已經退役，現居聖都。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1011,
+   "w": 3030,
+   "h": 4579,
+   "thumb": "img/thumb/char-12.webp",
+   "large": "img/large/char-12.webp"
+  },
+  {
+   "id": "char-13",
+   "category": "角色立繪",
+   "title": "白羽",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "神的女兒，鳥人信仰的神，始終與各生命保持距離。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1012,
+   "w": 3299,
+   "h": 4673,
+   "thumb": "img/thumb/char-13.webp",
+   "large": "img/large/char-13.webp"
+  },
+  {
+   "id": "char-14",
+   "category": "角色立繪",
+   "title": "空間",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "古代神，現被神控制。很喜歡明星極寒。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1013,
+   "w": 4223,
+   "h": 6256,
+   "thumb": "img/thumb/char-14.webp",
+   "large": "img/large/char-14.webp"
+  },
+  {
+   "id": "char-15",
+   "category": "角色立繪",
+   "title": "艾克",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主角父親團隊中的偵查員，種族為蜥蜴人，身上充滿各種傷痕，原本是溫德手下的一名奴隸，但在多次行商中展現了自己敏銳的洞察力幫助商隊避開危險，被溫德提拔成為主要成員，平日不怎麼說話，但可以在小細節觀察到他對夥伴的關心，夢想是存夠錢跟文德‘’買下‘’自己獲得自由到面紗城中層開個道具店生活。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1014,
+   "w": 3126,
+   "h": 3725,
+   "thumb": "img/thumb/char-15.webp",
+   "large": "img/large/char-15.webp"
+  },
+  {
+   "id": "char-16",
+   "category": "角色立繪",
+   "title": "芬妮瑟",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主線劇情角色，身分神秘。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1015,
+   "w": 3309,
+   "h": 4672,
+   "thumb": "img/thumb/char-16.webp",
+   "large": "img/large/char-16.webp"
+  },
+  {
+   "id": "char-17",
+   "category": "角色立繪",
+   "title": "莉亞",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主角父親團隊中的魔法師，種族為火龍人，穿著長袍總是駝背，有許多法術相關知識，擅長使用火焰魔法，喜歡各種知識常跟費克相談甚歡（周遭的人覺得他們之間的氛圍有點曖昧），夢想是蒐集傳說中的火焰魔法書，鳳凰之書。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1016,
+   "w": 3492,
+   "h": 4660,
+   "thumb": "img/thumb/char-17.webp",
+   "large": "img/large/char-17.webp"
+  },
+  {
+   "id": "char-18",
+   "category": "角色立繪",
+   "title": "莉賽爾",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主線劇情角色，種族為人類，庫斯托家族嫡長女，個性活潑，與家族騎士形象不太合。與哥哥賽爾維斯相差十歲。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1017,
+   "w": 2582,
+   "h": 4676,
+   "thumb": "img/thumb/char-18.webp",
+   "large": "img/large/char-18.webp"
+  },
+  {
+   "id": "char-19",
+   "category": "角色立繪",
+   "title": "賽爾維斯",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主線劇情角色，種族為人類，庫斯托家族嫡長子，個性冷靜沉穩，被妹妹說是最無聊的人類，是聖都有名的騎士。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1018,
+   "w": 3322,
+   "h": 4693,
+   "thumb": "img/thumb/char-19.webp",
+   "large": "img/large/char-19.webp"
+  },
+  {
+   "id": "char-20",
+   "category": "角色立繪",
+   "title": "迪倫",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主角父親團隊中的貨物總管，種族為風龍人，身材壯碩 喜歡打赤膊，負責搬運與整理保護貨物，喜歡健身，一找到機會就會擺poss炫自己的肌肉，夢想是到面紗城上層開一間健身房。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1019,
+   "w": 3519,
+   "h": 5055,
+   "thumb": "img/thumb/char-20.webp",
+   "large": "img/large/char-20.webp"
+  },
+  {
+   "id": "char-21",
+   "category": "角色立繪",
+   "title": "阿帕蒂",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主角父親團隊中的助理，種族為風龍人，做事認真很照顧主角，有著冷靜的頭腦與敏銳的洞察力。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1020,
+   "w": 3233,
+   "h": 5029,
+   "thumb": "img/thumb/char-21.webp",
+   "large": "img/large/char-21.webp"
+  },
+  {
+   "id": "char-22",
+   "category": "角色立繪",
+   "title": "雷克斯",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主角父親團隊中的總務，種族為瓦蘭矮人，據說原本是歐拉夫黑手黨底下的一名討債員，但壓力太大，在一次與同夥的行動中遭到敵對黑手黨埋伏，在混亂中逃出來，夥伴凶多吉少，之後就離開瓦蘭矮人的礦坑，四處流浪，偶然被文德遇到並收留發揮了黑幫時期練就的工作技巧，得到文德的賞識成為主要成員之一，平常眼神透著疲憊，喜好甜點，夢想是轉到足夠的錢到面紗城過著無憂無慮的生活",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1021,
+   "w": 3310,
+   "h": 4688,
+   "thumb": "img/thumb/char-22.webp",
+   "large": "img/large/char-22.webp"
+  },
+  {
+   "id": "bust-01",
+   "category": "角色立繪",
+   "title": "鳥人信使",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "信使公會的櫃檯人員，以候鳥和貓頭鷹為原形設計。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1022,
+   "w": 3508,
+   "h": 2480,
+   "thumb": "img/thumb/bust-01.webp",
+   "large": "img/large/bust-01.webp"
+  },
+  {
+   "id": "bust-02",
+   "category": "角色立繪",
+   "title": "鳥人商人",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "貿易公會櫃台人員，以台灣常見的鳥為原型設計。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1023,
+   "w": 3508,
+   "h": 2480,
+   "thumb": "img/thumb/bust-02.webp",
+   "large": "img/large/bust-02.webp"
+  },
+  {
+   "id": "design-01",
+   "category": "人物設定",
+   "title": "伊利亞斯",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "白羽的代行官，隱藏身分工作的庫斯托家族成員。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1024,
+   "w": 4687,
+   "h": 3304,
+   "thumb": "img/thumb/design-01.webp",
+   "large": "img/large/design-01.webp"
+  },
+  {
+   "id": "design-02",
+   "category": "人物設定",
+   "title": "卡西安",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "被稱為神的瘋狗的狂信徒，是庫斯托家族成員之一。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1025,
+   "w": 5736,
+   "h": 4794,
+   "thumb": "img/thumb/design-02.webp",
+   "large": "img/large/design-02.webp"
+  },
+  {
+   "id": "design-03",
+   "category": "人物設定",
+   "title": "艾蕾諾雅",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "聖都騎士，巡邏隊隊長，是賽爾維斯的妻子。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1026,
+   "w": 3947,
+   "h": 2480,
+   "thumb": "img/thumb/design-03.webp",
+   "large": "img/large/design-03.webp"
+  },
+  {
+   "id": "design-04",
+   "category": "人物設定",
+   "title": "艾蕾莎",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "白羽的代行官，原本是情報部門的小組長，被白羽選為代行官，主要負責交涉。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1027,
+   "w": 2442,
+   "h": 2480,
+   "thumb": "img/thumb/design-04.webp",
+   "large": "img/large/design-04.webp"
+  },
+  {
+   "id": "design-05",
+   "category": "人物設定",
+   "title": "涅克斯的設定圖",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "涅克斯的服裝與造型設定圖。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1028,
+   "w": 3300,
+   "h": 4511,
+   "thumb": "img/thumb/design-05.webp",
+   "large": "img/large/design-05.webp"
+  },
+  {
+   "id": "design-06",
+   "category": "人物設定",
+   "title": "瑟維恩",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "神寵愛之人，庫斯托家族成員之一，是莉賽爾與賽爾維斯的堂弟。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1029,
+   "w": 4350,
+   "h": 2879,
+   "thumb": "img/thumb/design-06.webp",
+   "large": "img/large/design-06.webp"
+  },
+  {
+   "id": "design-07",
+   "category": "人物設定",
+   "title": "聖都動物",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "聖都常見的動物，落日皇蛾與貓鷹，其中貓鷹是聖都許多人喜愛的寵物之一。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "種族設定"
+   ],
+   "featured": false,
+   "order": 1030,
+   "w": 2480,
+   "h": 3508,
+   "thumb": "img/thumb/design-07.webp",
+   "large": "img/large/design-07.webp"
+  },
+  {
+   "id": "design-08",
+   "category": "人物設定",
+   "title": "莉賽爾",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "莉賽爾的詳細設定圖。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1031,
+   "w": 4685,
+   "h": 2420,
+   "thumb": "img/thumb/design-08.webp",
+   "large": "img/large/design-08.webp"
+  },
+  {
+   "id": "design-09",
+   "category": "人物設定",
+   "title": "賽爾維斯",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "賽爾維斯的詳細設定圖。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1032,
+   "w": 5069,
+   "h": 2804,
+   "thumb": "img/thumb/design-09.webp",
+   "large": "img/large/design-09.webp"
+  },
+  {
+   "id": "design-10",
+   "category": "人物設定",
+   "title": "阿爾諾",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "可招募的角色之一，工作為嚮導，對神聖帝國區域大部分地帶十分熟悉。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1033,
+   "w": 3019,
+   "h": 2407,
+   "thumb": "img/thumb/design-10.webp",
+   "large": "img/large/design-10.webp"
+  },
+  {
+   "id": "design-11",
+   "category": "人物設定",
+   "title": "雙角馬",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "危險且強大的魔物，被馴服為日常交通動物，但只有貴族與教廷養得起，是很稀有的坐騎。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "種族設定"
+   ],
+   "featured": false,
+   "order": 1034,
+   "w": 2913,
+   "h": 2703,
+   "thumb": "img/thumb/design-11.webp",
+   "large": "img/large/design-11.webp"
+  },
+  {
+   "id": "chibi-01",
+   "category": "Q版角色",
+   "title": "催眠怪",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "能夠用魔法來控制人的魔物。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "種族設定"
+   ],
+   "featured": false,
+   "order": 1035,
+   "w": 325,
+   "h": 517,
+   "thumb": "img/thumb/chibi-01.webp",
+   "large": "img/large/chibi-01.webp"
+  },
+  {
+   "id": "chibi-02",
+   "category": "Q版角色",
+   "title": "阿帕蒂",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "阿帕蒂Q版形象。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1036,
+   "w": 337,
+   "h": 643,
+   "thumb": "img/thumb/chibi-02.webp",
+   "large": "img/large/chibi-02.webp"
+  },
+  {
+   "id": "chibi-03",
+   "category": "Q版角色",
+   "title": "厚皮牛",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "最常見的駝獸，也是溫馴的魔物。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1037,
+   "w": 1216,
+   "h": 712,
+   "thumb": "img/thumb/chibi-03.webp",
+   "large": "img/large/chibi-03.webp"
+  },
+  {
+   "id": "chibi-04",
+   "category": "Q版角色",
+   "title": "吟遊詩人",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "路人。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1038,
+   "w": 362,
+   "h": 651,
+   "thumb": "img/thumb/chibi-04.webp",
+   "large": "img/large/chibi-04.webp"
+  },
+  {
+   "id": "chibi-05",
+   "category": "Q版角色",
+   "title": "妮卡",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "妮卡Q版形象。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1039,
+   "w": 307,
+   "h": 603,
+   "thumb": "img/thumb/chibi-05.webp",
+   "large": "img/large/chibi-05.webp"
+  },
+  {
+   "id": "chibi-06",
+   "category": "Q版角色",
+   "title": "嬰兒蟲",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "會用寶寶的聲音吸引人靠近，然後爆炸噴出腐蝕液體。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1040,
+   "w": 255,
+   "h": 224,
+   "thumb": "img/thumb/chibi-06.webp",
+   "large": "img/large/chibi-06.webp"
+  },
+  {
+   "id": "chibi-07",
+   "category": "Q版角色",
+   "title": "弗雷德",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "弗雷德Q版形象。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1041,
+   "w": 290,
+   "h": 595,
+   "thumb": "img/thumb/chibi-07.webp",
+   "large": "img/large/chibi-07.webp"
+  },
+  {
+   "id": "chibi-08",
+   "category": "Q版角色",
+   "title": "強盜-人類",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "信仰狼神的異教徒掠奪者。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1042,
+   "w": 361,
+   "h": 663,
+   "thumb": "img/thumb/chibi-08.webp",
+   "large": "img/large/chibi-08.webp"
+  },
+  {
+   "id": "chibi-09",
+   "category": "Q版角色",
+   "title": "強盜-矮人",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "信仰狼神的異教徒掠奪者。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1043,
+   "w": 354,
+   "h": 528,
+   "thumb": "img/thumb/chibi-09.webp",
+   "large": "img/large/chibi-09.webp"
+  },
+  {
+   "id": "chibi-10",
+   "category": "Q版角色",
+   "title": "強盜-蜥蜴人",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "信仰狼神的異教徒掠奪者。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1044,
+   "w": 461,
+   "h": 609,
+   "thumb": "img/thumb/chibi-10.webp",
+   "large": "img/large/chibi-10.webp"
+  },
+  {
+   "id": "chibi-11",
+   "category": "Q版角色",
+   "title": "彌樂絲",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "彌勒斯Q版形象。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1045,
+   "w": 358,
+   "h": 580,
+   "thumb": "img/thumb/chibi-11.webp",
+   "large": "img/large/chibi-11.webp"
+  },
+  {
+   "id": "chibi-12",
+   "category": "Q版角色",
+   "title": "敵人-嗜血爬行者",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "喜歡啃食活物的魔物。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1046,
+   "w": 322,
+   "h": 451,
+   "thumb": "img/thumb/chibi-12.webp",
+   "large": "img/large/chibi-12.webp"
+  },
+  {
+   "id": "chibi-13",
+   "category": "Q版角色",
+   "title": "敵人-巨型水魔",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "生活於水中的魔物，被寄生後瘋狂長大。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1047,
+   "w": 398,
+   "h": 629,
+   "thumb": "img/thumb/chibi-13.webp",
+   "large": "img/large/chibi-13.webp"
+  },
+  {
+   "id": "chibi-14",
+   "category": "Q版角色",
+   "title": "敵人-水魔",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "生活於水中的魔物。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1048,
+   "w": 312,
+   "h": 475,
+   "thumb": "img/thumb/chibi-14.webp",
+   "large": "img/large/chibi-14.webp"
+  },
+  {
+   "id": "chibi-15",
+   "category": "Q版角色",
+   "title": "敵人-爬行者",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "喜歡啃食活物的魔物。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1049,
+   "w": 302,
+   "h": 272,
+   "thumb": "img/thumb/chibi-15.webp",
+   "large": "img/large/chibi-15.webp"
+  },
+  {
+   "id": "chibi-16",
+   "category": "Q版角色",
+   "title": "敵人-石像鬼",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "有堅硬外殼的模仿魔物。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1050,
+   "w": 238,
+   "h": 591,
+   "thumb": "img/thumb/chibi-16.webp",
+   "large": "img/large/chibi-16.webp"
+  },
+  {
+   "id": "chibi-17",
+   "category": "Q版角色",
+   "title": "敵人-骨漿吐酸者",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "吞噬生物留下骨頭的史萊姆，用骨頭來建構自己身體。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1051,
+   "w": 188,
+   "h": 204,
+   "thumb": "img/thumb/chibi-17.webp",
+   "large": "img/large/chibi-17.webp"
+  },
+  {
+   "id": "chibi-18",
+   "category": "Q版角色",
+   "title": "敵人-骨漿巨構體",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "吞噬生物留下骨頭的史萊姆，用骨頭來建構自己身體。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1052,
+   "w": 516,
+   "h": 640,
+   "thumb": "img/thumb/chibi-18.webp",
+   "large": "img/large/chibi-18.webp"
+  },
+  {
+   "id": "chibi-19",
+   "category": "Q版角色",
+   "title": "敵人-骨漿野獸",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "吞噬生物留下骨頭的史萊姆，用骨頭來建構自己身體。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1053,
+   "w": 280,
+   "h": 529,
+   "thumb": "img/thumb/chibi-19.webp",
+   "large": "img/large/chibi-19.webp"
+  },
+  {
+   "id": "chibi-20",
+   "category": "Q版角色",
+   "title": "敵人-黃金面具1",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "曼薩旗下軍團成員。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1054,
+   "w": 425,
+   "h": 509,
+   "thumb": "img/thumb/chibi-20.webp",
+   "large": "img/large/chibi-20.webp"
+  },
+  {
+   "id": "chibi-21",
+   "category": "Q版角色",
+   "title": "敵人-黃金面具2",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "曼薩旗下軍團成員。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1055,
+   "w": 410,
+   "h": 476,
+   "thumb": "img/thumb/chibi-21.webp",
+   "large": "img/large/chibi-21.webp"
+  },
+  {
+   "id": "chibi-22",
+   "category": "Q版角色",
+   "title": "涅克斯",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "涅克斯的Q版。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1056,
+   "w": 279,
+   "h": 608,
+   "thumb": "img/thumb/chibi-22.webp",
+   "large": "img/large/chibi-22.webp"
+  },
+  {
+   "id": "chibi-23",
+   "category": "Q版角色",
+   "title": "烏薩斯",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "烏薩斯的Q版。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1057,
+   "w": 348,
+   "h": 557,
+   "thumb": "img/thumb/chibi-23.webp",
+   "large": "img/large/chibi-23.webp"
+  },
+  {
+   "id": "chibi-24",
+   "category": "Q版角色",
+   "title": "羽可",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "羽可的Q版。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1058,
+   "w": 234,
+   "h": 565,
+   "thumb": "img/thumb/chibi-24.webp",
+   "large": "img/large/chibi-24.webp"
+  },
+  {
+   "id": "chibi-25",
+   "category": "Q版角色",
+   "title": "艾克",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "艾克的Q版。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1059,
+   "w": 474,
+   "h": 503,
+   "thumb": "img/thumb/chibi-25.webp",
+   "large": "img/large/chibi-25.webp"
+  },
+  {
+   "id": "chibi-26",
+   "category": "Q版角色",
+   "title": "芬尼瑟",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "芬尼瑟的Q版。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1060,
+   "w": 330,
+   "h": 557,
+   "thumb": "img/thumb/chibi-26.webp",
+   "large": "img/large/chibi-26.webp"
+  },
+  {
+   "id": "chibi-27",
+   "category": "Q版角色",
+   "title": "莉亞",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "莉亞的Q版。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1061,
+   "w": 375,
+   "h": 627,
+   "thumb": "img/thumb/chibi-27.webp",
+   "large": "img/large/chibi-27.webp"
+  },
+  {
+   "id": "chibi-28",
+   "category": "Q版角色",
+   "title": "蟑螂怪",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "巨大的蟑螂魔物，有著類似蜈蚣的額外肢體。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1062,
+   "w": 359,
+   "h": 701,
+   "thumb": "img/thumb/chibi-28.webp",
+   "large": "img/large/chibi-28.webp"
+  },
+  {
+   "id": "chibi-29",
+   "category": "Q版角色",
+   "title": "費克",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "涅克斯的Q版。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1063,
+   "w": 390,
+   "h": 670,
+   "thumb": "img/thumb/chibi-29.webp",
+   "large": "img/large/chibi-29.webp"
+  },
+  {
+   "id": "chibi-30",
+   "category": "Q版角色",
+   "title": "路人-A",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "路人。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1064,
+   "w": 201,
+   "h": 571,
+   "thumb": "img/thumb/chibi-30.webp",
+   "large": "img/large/chibi-30.webp"
+  },
+  {
+   "id": "chibi-31",
+   "category": "Q版角色",
+   "title": "路人-農民",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "路人。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1065,
+   "w": 299,
+   "h": 600,
+   "thumb": "img/thumb/chibi-31.webp",
+   "large": "img/large/chibi-31.webp"
+  },
+  {
+   "id": "chibi-32",
+   "category": "Q版角色",
+   "title": "路人-騎士",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "路人。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "人物設定"
+   ],
+   "featured": false,
+   "order": 1066,
+   "w": 227,
+   "h": 561,
+   "thumb": "img/thumb/chibi-32.webp",
+   "large": "img/large/chibi-32.webp"
+  },
+  {
+   "id": "chibi-33",
+   "category": "Q版角色",
+   "title": "迪倫",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "迪倫的Q版。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1067,
+   "w": 342,
+   "h": 746,
+   "thumb": "img/thumb/chibi-33.webp",
+   "large": "img/large/chibi-33.webp"
+  },
+  {
+   "id": "chibi-34",
+   "category": "Q版角色",
+   "title": "阿帕蒂受傷",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "阿帕蒂的Q版。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1068,
+   "w": 435,
+   "h": 647,
+   "thumb": "img/thumb/chibi-34.webp",
+   "large": "img/large/chibi-34.webp"
+  },
+  {
+   "id": "chibi-35",
+   "category": "Q版角色",
+   "title": "雷克斯",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "雷克斯的Q版。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1069,
+   "w": 478,
+   "h": 1155,
+   "thumb": "img/thumb/chibi-35.webp",
+   "large": "img/large/chibi-35.webp"
+  },
+  {
+   "id": "chibi-36",
+   "category": "Q版角色",
+   "title": "魔女",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "具有高度智慧的魔物。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1070,
+   "w": 304,
+   "h": 703,
+   "thumb": "img/thumb/chibi-36.webp",
+   "large": "img/large/chibi-36.webp"
+  },
+  {
+   "id": "chibi-37",
+   "category": "Q版角色",
+   "title": "魔物-縫合獸",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "被縫合製作而成的魔物。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1071,
+   "w": 564,
+   "h": 833,
+   "thumb": "img/thumb/chibi-37.webp",
+   "large": "img/large/chibi-37.webp"
+  },
+  {
+   "id": "illus-01",
+   "category": "插畫",
+   "title": "場景1",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "學校場景課程作業之一。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [],
+   "featured": true,
+   "order": 1072,
+   "w": 3508,
+   "h": 2480,
+   "thumb": "img/thumb/illus-01.webp",
+   "large": "img/large/illus-01.webp"
+  },
+  {
+   "id": "illus-02",
+   "category": "插畫",
+   "title": "場景2",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "學校場景課程作業之一。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [],
+   "featured": false,
+   "order": 1073,
+   "w": 3508,
+   "h": 2480,
+   "thumb": "img/thumb/illus-02.webp",
+   "large": "img/large/illus-02.webp"
+  },
+  {
+   "id": "illus-03",
+   "category": "插畫",
+   "title": "場景3",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "學校場景課程作業之一。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [],
+   "featured": false,
+   "order": 1074,
+   "w": 3508,
+   "h": 2480,
+   "thumb": "img/thumb/illus-03.webp",
+   "large": "img/large/illus-03.webp"
+  },
+  {
+   "id": "illus-04",
+   "category": "插畫",
+   "title": "場景4",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "學校場景課程作業之一。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [],
+   "featured": false,
+   "order": 1075,
+   "w": 3508,
+   "h": 2480,
+   "thumb": "img/thumb/illus-04.webp",
+   "large": "img/large/illus-04.webp"
+  },
+  {
+   "id": "illus-05",
+   "category": "插畫",
+   "title": "極寒",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "遊戲中可以收集的收集品。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": true,
+   "order": 1076,
+   "w": 2480,
+   "h": 3451,
+   "thumb": "img/thumb/illus-05.webp",
+   "large": "img/large/illus-05.webp"
+  },
+  {
+   "id": "illus-06",
+   "category": "插畫",
+   "title": "遊戲封面",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "遊戲的封面。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1077,
+   "w": 3840,
+   "h": 2160,
+   "thumb": "img/thumb/illus-06.webp",
+   "large": "img/large/illus-06.webp"
+  },
+  {
+   "id": "tarot-01",
+   "category": "塔羅牌系列",
+   "title": "世界",
+   "subtitle": "主線合",
+   "project": "龍人商隊",
+   "desc": "以空間為主繪製，涵義為旅程完成、結局統合。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1078,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-01.webp",
+   "large": "img/large/tarot-01.webp"
+  },
+  {
+   "id": "tarot-02",
+   "category": "塔羅牌系列",
+   "title": "教皇",
+   "subtitle": "主線承",
+   "project": "龍人商隊",
+   "desc": "以遊戲中教皇為主角繪製，含意為聖教體制、信仰秩序。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1079,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-02.webp",
+   "large": "img/large/tarot-02.webp"
+  },
+  {
+   "id": "tarot-03",
+   "category": "塔羅牌系列",
+   "title": "愚者",
+   "subtitle": "主線起",
+   "project": "龍人商隊",
+   "desc": "主角啟程，涵義為旅程開始、未知冒險。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": true,
+   "order": 1080,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-03.webp",
+   "large": "img/large/tarot-03.webp"
+  },
+  {
+   "id": "tarot-04",
+   "category": "塔羅牌系列",
+   "title": "死神",
+   "subtitle": "主線轉",
+   "project": "龍人商隊",
+   "desc": "以遊戲中的敵人之一為主繪製，含意為不可逆轉的變化。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1081,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-04.webp",
+   "large": "img/large/tarot-04.webp"
+  },
+  {
+   "id": "tarot-05",
+   "category": "塔羅牌系列",
+   "title": "卡背",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "以神的符號與形象設計，卡牌的背面。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": true,
+   "order": 1082,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-05.webp",
+   "large": "img/large/tarot-05.webp"
+  },
+  {
+   "id": "tarot-06",
+   "category": "塔羅牌系列",
+   "title": "節制",
+   "subtitle": "多雲",
+   "project": "龍人商隊",
+   "desc": "遊戲中天氣事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1083,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-06.webp",
+   "large": "img/large/tarot-06.webp"
+  },
+  {
+   "id": "tarot-07",
+   "category": "塔羅牌系列",
+   "title": "星星",
+   "subtitle": "小雨",
+   "project": "龍人商隊",
+   "desc": "遊戲中天氣事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": true,
+   "order": 1084,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-07.webp",
+   "large": "img/large/tarot-07.webp"
+  },
+  {
+   "id": "tarot-08",
+   "category": "塔羅牌系列",
+   "title": "戀人",
+   "subtitle": "抉擇",
+   "project": "龍人商隊",
+   "desc": "遊戲中抉擇事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1085,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-08.webp",
+   "large": "img/large/tarot-08.webp"
+  },
+  {
+   "id": "tarot-09",
+   "category": "塔羅牌系列",
+   "title": "倒吊人",
+   "subtitle": "抉擇異教",
+   "project": "龍人商隊",
+   "desc": "遊戲中抉擇事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1086,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-09.webp",
+   "large": "img/large/tarot-09.webp"
+  },
+  {
+   "id": "tarot-10",
+   "category": "塔羅牌系列",
+   "title": "正義",
+   "subtitle": "抉擇聖教",
+   "project": "龍人商隊",
+   "desc": "遊戲中抉擇事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1087,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-10.webp",
+   "large": "img/large/tarot-10.webp"
+  },
+  {
+   "id": "tarot-11",
+   "category": "塔羅牌系列",
+   "title": "寶劍七",
+   "subtitle": "支線異教",
+   "project": "龍人商隊",
+   "desc": "異教支線的卡牌，以芬尼瑟的形象繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1088,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-11.webp",
+   "large": "img/large/tarot-11.webp"
+  },
+  {
+   "id": "tarot-12",
+   "category": "塔羅牌系列",
+   "title": "皇后",
+   "subtitle": "支線白羽",
+   "project": "龍人商隊",
+   "desc": "白羽支線的卡牌，以白羽為主繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1089,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-12.webp",
+   "large": "img/large/tarot-12.webp"
+  },
+  {
+   "id": "tarot-13",
+   "category": "塔羅牌系列",
+   "title": "審判",
+   "subtitle": "支線聖教",
+   "project": "龍人商隊",
+   "desc": "聖教支線的卡牌，以神的形象繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1090,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-13.webp",
+   "large": "img/large/tarot-13.webp"
+  },
+  {
+   "id": "tarot-14",
+   "category": "塔羅牌系列",
+   "title": "太陽",
+   "subtitle": "晴朗",
+   "project": "龍人商隊",
+   "desc": "遊戲中天氣事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1091,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-14.webp",
+   "large": "img/large/tarot-14.webp"
+  },
+  {
+   "id": "tarot-15",
+   "category": "塔羅牌系列",
+   "title": "高塔",
+   "subtitle": "暴雨",
+   "project": "龍人商隊",
+   "desc": "遊戲中天氣事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1092,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-15.webp",
+   "large": "img/large/tarot-15.webp"
+  },
+  {
+   "id": "tarot-16",
+   "category": "塔羅牌系列",
+   "title": "寶劍十",
+   "subtitle": "機遇壞",
+   "project": "龍人商隊",
+   "desc": "機遇事件卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1093,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-16.webp",
+   "large": "img/large/tarot-16.webp"
+  },
+  {
+   "id": "tarot-17",
+   "category": "塔羅牌系列",
+   "title": "星幣王牌",
+   "subtitle": "機遇好",
+   "project": "龍人商隊",
+   "desc": "機遇事件卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1094,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-17.webp",
+   "large": "img/large/tarot-17.webp"
+  },
+  {
+   "id": "tarot-18",
+   "category": "塔羅牌系列",
+   "title": "聖杯七",
+   "subtitle": "機遇異教",
+   "project": "龍人商隊",
+   "desc": "機遇事件卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1095,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-18.webp",
+   "large": "img/large/tarot-18.webp"
+  },
+  {
+   "id": "tarot-19",
+   "category": "塔羅牌系列",
+   "title": "聖杯六",
+   "subtitle": "機遇聖教",
+   "project": "龍人商隊",
+   "desc": "機遇事件卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1096,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-19.webp",
+   "large": "img/large/tarot-19.webp"
+  },
+  {
+   "id": "tarot-20",
+   "category": "塔羅牌系列",
+   "title": "惡魔",
+   "subtitle": "毒霧",
+   "project": "龍人商隊",
+   "desc": "遊戲中天氣事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1097,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-20.webp",
+   "large": "img/large/tarot-20.webp"
+  },
+  {
+   "id": "tarot-21",
+   "category": "塔羅牌系列",
+   "title": "命運之輪",
+   "subtitle": "氣候混亂",
+   "project": "龍人商隊",
+   "desc": "遊戲中天氣事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1098,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-21.webp",
+   "large": "img/large/tarot-21.webp"
+  },
+  {
+   "id": "tarot-22",
+   "category": "塔羅牌系列",
+   "title": "月亮",
+   "subtitle": "濃霧",
+   "project": "龍人商隊",
+   "desc": "遊戲中天氣事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1099,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-22.webp",
+   "large": "img/large/tarot-22.webp"
+  },
+  {
+   "id": "tarot-23",
+   "category": "塔羅牌系列",
+   "title": "戰車",
+   "subtitle": "狂風",
+   "project": "龍人商隊",
+   "desc": "遊戲中天氣事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1100,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-23.webp",
+   "large": "img/large/tarot-23.webp"
+  },
+  {
+   "id": "tarot-24",
+   "category": "塔羅牌系列",
+   "title": "魔術師逆位",
+   "subtitle": "能量扭曲",
+   "project": "龍人商隊",
+   "desc": "遊戲中天氣事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1101,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-24.webp",
+   "large": "img/large/tarot-24.webp"
+  },
+  {
+   "id": "tarot-25",
+   "category": "塔羅牌系列",
+   "title": "星幣騎士",
+   "subtitle": "角色主角",
+   "project": "龍人商隊",
+   "desc": "主角相關事件卡牌。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1102,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-25.webp",
+   "large": "img/large/tarot-25.webp"
+  },
+  {
+   "id": "tarot-26",
+   "category": "塔羅牌系列",
+   "title": "權杖國王",
+   "subtitle": "角色弗雷德",
+   "project": "龍人商隊",
+   "desc": "角色事件卡牌，以角色個性選牌繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1103,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-26.webp",
+   "large": "img/large/tarot-26.webp"
+  },
+  {
+   "id": "tarot-27",
+   "category": "塔羅牌系列",
+   "title": "隱者",
+   "subtitle": "角色烏薩斯",
+   "project": "龍人商隊",
+   "desc": "角色事件卡牌，以角色個性選牌繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1104,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-27.webp",
+   "large": "img/large/tarot-27.webp"
+  },
+  {
+   "id": "tarot-28",
+   "category": "塔羅牌系列",
+   "title": "女祭司",
+   "subtitle": "角色芬妮瑟",
+   "project": "龍人商隊",
+   "desc": "角色事件卡牌，以角色個性選牌繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1105,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-28.webp",
+   "large": "img/large/tarot-28.webp"
+  },
+  {
+   "id": "tarot-29",
+   "category": "塔羅牌系列",
+   "title": "皇帝",
+   "subtitle": "角色賽爾維斯與莉賽爾",
+   "project": "龍人商隊",
+   "desc": "角色事件卡牌，以角色個性選牌繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1106,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-29.webp",
+   "large": "img/large/tarot-29.webp"
+  },
+  {
+   "id": "tarot-30",
+   "category": "塔羅牌系列",
+   "title": "寶劍皇后",
+   "subtitle": "角色阿帕蒂",
+   "project": "龍人商隊",
+   "desc": "角色事件卡牌，以角色個性選牌繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1107,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-30.webp",
+   "large": "img/large/tarot-30.webp"
+  },
+  {
+   "id": "tarot-31",
+   "category": "塔羅牌系列",
+   "title": "權杖五",
+   "subtitle": "遭遇戰一般",
+   "project": "龍人商隊",
+   "desc": "遊戲中天戰鬥件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1108,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-31.webp",
+   "large": "img/large/tarot-31.webp"
+  },
+  {
+   "id": "tarot-32",
+   "category": "塔羅牌系列",
+   "title": "寶劍騎士",
+   "subtitle": "遭遇戰難",
+   "project": "龍人商隊",
+   "desc": "遊戲中天戰鬥件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1109,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-32.webp",
+   "large": "img/large/tarot-32.webp"
+  },
+  {
+   "id": "tarot-33",
+   "category": "塔羅牌系列",
+   "title": "寶劍國王",
+   "subtitle": "遭遇戰高難",
+   "project": "龍人商隊",
+   "desc": "遊戲中天戰鬥件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1110,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-33.webp",
+   "large": "img/large/tarot-33.webp"
+  },
+  {
+   "id": "tarot-34",
+   "category": "塔羅牌系列",
+   "title": "力量",
+   "subtitle": "高溫",
+   "project": "龍人商隊",
+   "desc": "遊戲中天氣事件的卡牌，以事件性質選取塔羅牌相應牌面繪製。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計",
+    "卡面規劃"
+   ],
+   "featured": false,
+   "order": 1111,
+   "w": 709,
+   "h": 1181,
+   "thumb": "img/thumb/tarot-34.webp",
+   "large": "img/large/tarot-34.webp"
+  },
+  {
+   "id": "illus-07",
+   "category": "插畫",
+   "title": "極寒",
+   "subtitle": "",
+   "project": "個人作品",
+   "desc": "極寒角色的插圖，用在電腦桌面與個人社群。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [],
+   "featured": false,
+   "order": 1112,
+   "w": 3840,
+   "h": 2160,
+   "thumb": "img/thumb/illus-07.webp",
+   "large": "img/large/illus-07.webp"
+  },
+  {
+   "id": "chibi-38",
+   "category": "Q版角色",
+   "title": "主角（長大）",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "主角長大後的Q版形象，遊戲中會以這個造型在地圖上移動，也是主角Spine動畫的原圖。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1113,
+   "w": 881,
+   "h": 1569,
+   "thumb": "img/thumb/chibi-38.webp",
+   "large": "img/large/chibi-38.webp"
+  },
+  {
+   "id": "chibi-39",
+   "category": "Q版角色",
+   "title": "賽爾維斯",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "賽爾維斯的Q版。庫斯托家族嫡長子，個性冷靜沉穩，是聖都有名的騎士。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1114,
+   "w": 277,
+   "h": 584,
+   "thumb": "img/thumb/chibi-39.webp",
+   "large": "img/large/chibi-39.webp"
+  },
+  {
+   "id": "chibi-40",
+   "category": "Q版角色",
+   "title": "莉賽爾",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "莉賽爾的Q版。庫斯托家族嫡長女，個性活潑，與哥哥賽爾維斯相差十歲。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1115,
+   "w": 217,
+   "h": 553,
+   "thumb": "img/thumb/chibi-40.webp",
+   "large": "img/large/chibi-40.webp"
+  },
+  {
+   "id": "chibi-41",
+   "category": "Q版角色",
+   "title": "雙角馬",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "雙角馬的Q版。危險且強大的魔物，被馴服為交通動物，只有貴族與教廷養得起。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1116,
+   "w": 793,
+   "h": 988,
+   "thumb": "img/thumb/chibi-41.webp",
+   "large": "img/large/chibi-41.webp"
+  },
+  {
+   "id": "chibi-42",
+   "category": "Q版角色",
+   "title": "凱洛馬",
+   "subtitle": "",
+   "project": "龍人商隊",
+   "desc": "凱洛馬的Q版形象，也是凱洛馬Spine動畫的原圖。",
+   "tools": [
+    "Procreate"
+   ],
+   "role": [
+    "美術設計"
+   ],
+   "featured": false,
+   "order": 1117,
+   "w": 741,
+   "h": 745,
+   "thumb": "img/thumb/chibi-42.webp",
+   "large": "img/large/chibi-42.webp"
+  }
+ ],
+ "animations": [
+  {
+   "id": "spine-01",
+   "title": "主角（長大）",
+   "project": "龍人商隊",
+   "desc": "主角的動畫，有多種說話與情緒動畫。",
+   "tools": [
+    "Spine 4.3"
+   ],
+   "role": [
+    "拆圖",
+    "動畫製作",
+    "人物動態設計"
+   ],
+   "featured": false,
+   "order": 1000,
+   "background": "純色深底",
+   "cover": "img/thumb/chibi-38.webp",
+   "coverId": "chibi-38",
+   "skeleton": "spine/spine-01/skeleton.json",
+   "atlas": "spine/spine-01/skeleton.atlas",
+   "animations": [
+    {
+     "name": "move_L",
+     "label": "移動（左）"
+    },
+    {
+     "name": "move_R",
+     "label": "移動（右）"
+    },
+    {
+     "name": "run_L",
+     "label": "奔跑（左）"
+    },
+    {
+     "name": "run_R",
+     "label": "奔跑（右）"
+    },
+    {
+     "name": "scare_L",
+     "label": "驚嚇（左）"
+    },
+    {
+     "name": "scare_L_2",
+     "label": "驚嚇2（左）"
+    },
+    {
+     "name": "scare_R",
+     "label": "驚嚇（右）"
+    },
+    {
+     "name": "scare_R_2",
+     "label": "驚嚇2（右）"
+    },
+    {
+     "name": "talk_happy_L",
+     "label": "開心對話（左）"
+    },
+    {
+     "name": "talk_happy_R",
+     "label": "開心對話（右）"
+    },
+    {
+     "name": "talk_L",
+     "label": "對話（左）"
+    },
+    {
+     "name": "talk_R",
+     "label": "對話（右）"
+    },
+    {
+     "name": "talk_sad_L",
+     "label": "難過對話（左）"
+    },
+    {
+     "name": "talk_sad_R",
+     "label": "難過對話（右）"
+    },
+    {
+     "name": "wait_happy_L",
+     "label": "開心待機（左）"
+    },
+    {
+     "name": "wait_happy_R",
+     "label": "開心待機（右）"
+    },
+    {
+     "name": "wait_L",
+     "label": "待機（左）"
+    },
+    {
+     "name": "wait_R",
+     "label": "待機（右）"
+    },
+    {
+     "name": "wait_sad_L",
+     "label": "難過待機（左）"
+    },
+    {
+     "name": "wait_sad_R",
+     "label": "難過待機（右）"
+    },
+    {
+     "name": "wait_think_L",
+     "label": "思考待機（左）"
+    },
+    {
+     "name": "wait_think_R",
+     "label": "思考待機（右）"
+    }
+   ],
+   "defaultAnimation": "wait_L"
+  },
+  {
+   "id": "spine-02",
+   "title": "凱洛馬",
+   "project": "龍人商隊",
+   "desc": "凱洛馬的Q版動畫，包含待機、行走與奔跑。",
+   "tools": [
+    "Spine 4.3"
+   ],
+   "role": [
+    "拆圖",
+    "動畫製作",
+    "人物動態設計"
+   ],
+   "featured": false,
+   "order": 1001,
+   "background": "純色深底",
+   "cover": "img/thumb/chibi-42.webp",
+   "coverId": "chibi-42",
+   "skeleton": "spine/spine-02/skeleton.json",
+   "atlas": "spine/spine-02/skeleton.atlas",
+   "animations": [
+    {
+     "name": "run",
+     "label": "奔跑"
+    },
+    {
+     "name": "wait",
+     "label": "待機"
+    },
+    {
+     "name": "wait_2",
+     "label": "待機2"
+    },
+    {
+     "name": "walk",
+     "label": "行走"
+    }
+   ],
+   "defaultAnimation": "wait"
+  },
+  {
+   "id": "spine-03",
+   "title": "莉賽爾",
+   "project": "龍人商隊",
+   "desc": "莉賽爾的Q版動畫，包含移動、對話、驚恐與戰鬥動作，表現她活潑的個性。",
+   "tools": [
+    "Spine 4.3"
+   ],
+   "role": [
+    "拆圖",
+    "動畫製作",
+    "人物動態設計"
+   ],
+   "featured": false,
+   "order": 1002,
+   "background": "純色深底",
+   "cover": "img/thumb/chibi-40.webp",
+   "coverId": "chibi-40",
+   "skeleton": "spine/spine-03/skeleton.json",
+   "atlas": "spine/spine-03/skeleton.atlas",
+   "animations": [
+    {
+     "name": "fight_block_L",
+     "label": "格擋（左）"
+    },
+    {
+     "name": "fight_hit_L",
+     "label": "受擊（左）"
+    },
+    {
+     "name": "fight_wait_L",
+     "label": "戰鬥待機（左）"
+    },
+    {
+     "name": "move_down_L",
+     "label": "向下移動（左）"
+    },
+    {
+     "name": "move_down_R",
+     "label": "向下移動（右）"
+    },
+    {
+     "name": "move_L",
+     "label": "移動（左）"
+    },
+    {
+     "name": "move_R",
+     "label": "移動（右）"
+    },
+    {
+     "name": "move_up_L",
+     "label": "向上移動（左）"
+    },
+    {
+     "name": "move_up_R",
+     "label": "向上移動（右）"
+    },
+    {
+     "name": "skill_L",
+     "label": "技能（左）"
+    },
+    {
+     "name": "talk_2_L",
+     "label": "對話2（左）"
+    },
+    {
+     "name": "talk_2_R",
+     "label": "對話2（右）"
+    },
+    {
+     "name": "talk_L",
+     "label": "對話（左）"
+    },
+    {
+     "name": "talk_R",
+     "label": "對話（右）"
+    },
+    {
+     "name": "terrify_L",
+     "label": "驚恐（左）"
+    },
+    {
+     "name": "terrify_R",
+     "label": "驚恐（右）"
+    },
+    {
+     "name": "wait_L",
+     "label": "待機（左）"
+    },
+    {
+     "name": "wait_R",
+     "label": "待機（右）"
+    }
+   ],
+   "defaultAnimation": "wait_L"
+  },
+  {
+   "id": "spine-04",
+   "title": "賽爾維斯",
+   "project": "龍人商隊",
+   "desc": "賽爾維斯的Q版動畫，包含移動、對話與完整的戰鬥動作（攻擊、格擋、受擊、倒下），並有披風的動態表現。",
+   "tools": [
+    "Spine 4.3"
+   ],
+   "role": [
+    "拆圖",
+    "動畫製作",
+    "人物動態設計"
+   ],
+   "featured": true,
+   "order": 1003,
+   "background": "純色深底",
+   "cover": "img/thumb/chibi-39.webp",
+   "coverId": "chibi-39",
+   "skeleton": "spine/spine-04/skeleton.json",
+   "atlas": "spine/spine-04/skeleton.atlas",
+   "animations": [
+    {
+     "name": "ATK_L",
+     "label": "攻擊（左）"
+    },
+    {
+     "name": "ATK_R",
+     "label": "攻擊（右）"
+    },
+    {
+     "name": "fight_block_L",
+     "label": "格擋（左）"
+    },
+    {
+     "name": "fight_block_R",
+     "label": "格擋（右）"
+    },
+    {
+     "name": "fight_die_L",
+     "label": "倒下（左）"
+    },
+    {
+     "name": "fight_die_R",
+     "label": "倒下（右）"
+    },
+    {
+     "name": "fight_hit_L",
+     "label": "受擊（左）"
+    },
+    {
+     "name": "fight_ hit_R",
+     "label": "受擊（右）"
+    },
+    {
+     "name": "move_cloak_R",
+     "label": "披風移動（右）"
+    },
+    {
+     "name": "move_clock_L",
+     "label": "披風移動（左）"
+    },
+    {
+     "name": "move_down_L",
+     "label": "向下移動（左）"
+    },
+    {
+     "name": "move_down_R",
+     "label": "向下移動（右）"
+    },
+    {
+     "name": "move_L",
+     "label": "移動（左）"
+    },
+    {
+     "name": "move_R",
+     "label": "移動（右）"
+    },
+    {
+     "name": "move_up_L",
+     "label": "向上移動（左）"
+    },
+    {
+     "name": "move_up_R",
+     "label": "向上移動（右）"
+    },
+    {
+     "name": "talk_L",
+     "label": "對話（左）"
+    },
+    {
+     "name": "talk_R",
+     "label": "對話（右）"
+    },
+    {
+     "name": "wait_1_L",
+     "label": "待機1（左）"
+    },
+    {
+     "name": "wait_1_R",
+     "label": "待機1（右）"
+    },
+    {
+     "name": "wait_2_L",
+     "label": "待機2（左）"
+    },
+    {
+     "name": "wait_2_R",
+     "label": "待機2（右）"
+    },
+    {
+     "name": "wait_cioak_L",
+     "label": "披風待機（左）"
+    },
+    {
+     "name": "wait_cloak_R",
+     "label": "披風待機（右）"
+    }
+   ],
+   "defaultAnimation": "wait_1_L"
+  },
+  {
+   "id": "spine-05",
+   "title": "雙角馬",
+   "project": "龍人商隊",
+   "desc": "雙角馬的動畫，包含行走、待機、生氣與戰鬥動作，表現魔物的危險感。",
+   "tools": [
+    "Spine 4.3"
+   ],
+   "role": [
+    "拆圖",
+    "動畫製作",
+    "人物動態設計"
+   ],
+   "featured": false,
+   "order": 1004,
+   "background": "純色深底",
+   "cover": "img/thumb/chibi-41.webp",
+   "coverId": "chibi-41",
+   "skeleton": "spine/spine-05/skeleton.json",
+   "atlas": "spine/spine-05/skeleton.atlas",
+   "animations": [
+    {
+     "name": "ATK",
+     "label": "攻擊"
+    },
+    {
+     "name": "fight_die",
+     "label": "倒下"
+    },
+    {
+     "name": "fight_hurt",
+     "label": "受擊"
+    },
+    {
+     "name": "fight_wait",
+     "label": "戰鬥待機"
+    },
+    {
+     "name": "wait",
+     "label": "待機"
+    },
+    {
+     "name": "wait_angry",
+     "label": "生氣待機"
+    },
+    {
+     "name": "walk",
+     "label": "行走"
+    }
+   ],
+   "defaultAnimation": "wait"
+  }
+ ]
+}
